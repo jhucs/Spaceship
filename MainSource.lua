@@ -1,4 +1,5 @@
 -------------------------------
+
 NombreArtista="Juanito Perez"
 NombreEmpresa="Square Enix"
 
